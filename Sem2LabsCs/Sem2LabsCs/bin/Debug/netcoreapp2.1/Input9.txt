@@ -1,0 +1,5 @@
+m
+The example shows how to use the 
+TryGetValue method as a more 
+efficient way to retrieve values 
+if a program often must try key values

@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Sem2LabsCs\Sem2LabsCs\bin\Debug\netcoreapp2.1\Sem2LabsCs.deps.json
+C:\Users\PC\source\repos\Sem2LabsCs\Sem2LabsCs\bin\Debug\netcoreapp2.1\Sem2LabsCs.runtimeconfig.json
+C:\Users\PC\source\repos\Sem2LabsCs\Sem2LabsCs\bin\Debug\netcoreapp2.1\Sem2LabsCs.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Sem2LabsCs\Sem2LabsCs\bin\Debug\netcoreapp2.1\Sem2LabsCs.dll
+C:\Users\PC\source\repos\Sem2LabsCs\Sem2LabsCs\bin\Debug\netcoreapp2.1\Sem2LabsCs.pdb
+C:\Users\PC\source\repos\Sem2LabsCs\Sem2LabsCs\obj\Debug\netcoreapp2.1\Sem2LabsCs.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Sem2LabsCs\Sem2LabsCs\obj\Debug\netcoreapp2.1\Sem2LabsCs.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Sem2LabsCs\Sem2LabsCs\obj\Debug\netcoreapp2.1\Sem2LabsCs.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Sem2LabsCs\Sem2LabsCs\obj\Debug\netcoreapp2.1\Sem2LabsCs.AssemblyInfo.cs
+C:\Users\PC\source\repos\Sem2LabsCs\Sem2LabsCs\obj\Debug\netcoreapp2.1\Sem2LabsCs.dll
+C:\Users\PC\source\repos\Sem2LabsCs\Sem2LabsCs\obj\Debug\netcoreapp2.1\Sem2LabsCs.pdb
